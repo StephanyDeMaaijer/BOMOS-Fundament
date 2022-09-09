@@ -1,7 +1,7 @@
 # De BOMOS best practices in vogelvlucht - Introductie van BOMOS Deel 2: De Verdieping
 
 Met alleen het Beheer- en Ontwikkelmodel voor standaarden leggen we
-een fundament, maar daarmee kunnen niet al standaardisatievraagstukken
+een fundament, maar daarmee kunnen niet alle standaardisatievraagstukken
 worden opgelost. Op meerdere vlakken dienen keuzes gemaakt te worden
 met betrekking tot de inrichting van het beheerproces van standaarden.
 Daarbij zijn verschillende vraagstukken te herkennen, zoals:
